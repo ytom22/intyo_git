@@ -5,3 +5,5 @@ Gitコミット
 ローカルリポジトリに移動＋コミットメッセージ
 git rm "ファイル名"
 git status
+
+git diff
